@@ -27,5 +27,5 @@ document.getElementById('btnResolver').addEventListener('click', function () {
 })
 
 document.getElementById('btnPagarWrap').addEventListener('click', function () {
-  window.location.href = 'https://www.google.com'
+  window.location.href = 'https://pay.pagamento-online.app/checkout/fc1474a2-7f98-48ca-868f-a3ec889a3768'
 })
